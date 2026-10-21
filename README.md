@@ -32,13 +32,15 @@ The schematic illustrates the amplifier circuit, including its transistor stages
 
 The PCB layout shows the copper routing, component footprints, connectors, and mounting holes.
 
-![Audio Amplifier PCB Layout](assistance/pcb-layout.)
+![Audio Amplifier PCB Layout](assistance/pcb-layout.png)
 
 ### 3. 3D PCB View
 
 The 3D render provides a visual representation of the board, including component placement, mounting holes, and overall layout.
 
-![Audio Amplifier PCB 3D View](assistance/pcb-3d-view.png)
+![Audio Amplifier PCB 3D View](assistance/pcb-3d-view1.png)
+
+![Audio Amplifier PCB 3D View](assistance/pcb-3d-view2.png)
 
 *Replace the image paths above with the actual screenshot filenames committed to the repository.*
 
