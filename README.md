@@ -26,13 +26,13 @@ The goal of this project is to design a printed circuit board (PCB) for an audio
 
 The schematic illustrates the amplifier circuit, including its transistor stages, MOSFETs, resistors, capacitors, diode, power connections, and audio input/output interfaces.
 
-![Audio Amplifier Schematic](assistance/schematic.png)
+![Audio Amplifier Schematic](assistance/schematic.jpg)
 
 ### 2. PCB Layout and Component Placement
 
 The PCB layout shows the copper routing, component footprints, connectors, and mounting holes.
 
-![Audio Amplifier PCB Layout](assistance/pcb-layout.png)
+![Audio Amplifier PCB Layout](assistance/pcb-layout.)
 
 ### 3. 3D PCB View
 
